@@ -147,35 +147,6 @@ Ticket Distribution by Urgency
 
 These dashboards allow support managers to monitor workload distribution, AI confidence, and routing trends.
 
-📁 Repository Structure
-flowdesk-ai-triage
-│
-├── README.md
-├── assets
-│   ├── workflow-routing.png
-│   ├── workflow-salesforce.png
-│   ├── dashboard.png
-│   └── architecture.png
-│
-├── prompts
-│   ├── classifier_prompt.md
-│   └── response_writer_prompt.md
-│
-├── schemas
-│   └── ticket_schema.json
-│
-├── sample-data
-│   ├── sample_tickets.csv
-│   └── sample_outputs.json
-│
-├── docs
-│   ├── architecture.md
-│   ├── routing.md
-│   ├── salesforce.md
-│   └── limitations.md
-│
-└── tests
-    └── validation.md
 
 Technology Stack:
 AI & Workflow
